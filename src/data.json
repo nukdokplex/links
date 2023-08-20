@@ -1,0 +1,53 @@
+{
+    "headerData": {
+        "name": "Axel Langeland",
+        "nickname": "nukdokplex",
+        "nicknameUrl": "https://nukdotcom.ru/",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25458915?v=4",
+        "quote": "It's hard to say black is white because both are colors."
+    },
+    "links": [
+        {
+            "title": "Website",
+            "useIconFromIconset": true,
+            "icon": "fa-solid fa-link",
+            "url": "https://nukdotcom.ru/"
+        },
+        {
+            "title": "GitHub",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-github",
+            "url": "https://github.com/nukdokplex"
+        },
+        {
+            "title": "Telegram",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-telegram",
+            "url": "https://t.me/nukdokplex"
+        },
+        {
+            "title": "VKontakte",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-vk",
+            "url": "https://vk.com/nukdokplex"
+        },
+        {
+            "title": "Twitter",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-x-twitter",
+            "url": "https://twitter.com/nukdokplex"
+        },
+        {
+            "title": "Discord",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-discord",
+            "url": "https://discordapp.com/users/273784375764582401"
+        },
+        {
+            "title": "YouTube",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-youtube",
+            "url": "https://www.youtube.com/channel/UC-8bYe6-ruy0rbzmmxA_TtA"
+        }
+    ]
+}
