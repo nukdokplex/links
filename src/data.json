@@ -14,16 +14,34 @@
             "url": "https://nukdotcom.ru/"
         },
         {
+            "title": "Blog (longreads)",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-tumblr",
+            "url": "https://blog.nukdotcom.ru/"
+        },
+        {
             "title": "GitHub",
             "useIconFromIconset": true,
             "icon": "fa-brands fa-github",
             "url": "https://github.com/nukdokplex"
         },
         {
-            "title": "Telegram",
+            "title": "Telegram (me)",
             "useIconFromIconset": true,
             "icon": "fa-brands fa-telegram",
             "url": "https://t.me/nukdokplex"
+        },
+        {
+            "title": "Telegram (channel)",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-telegram",
+            "url": "https://t.me/axeliary"
+        },
+        {
+            "title": "Instagram",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-instagram",
+            "url": "https://instagram.com/nukdokplex"
         },
         {
             "title": "VKontakte",
@@ -32,10 +50,10 @@
             "url": "https://vk.com/nukdokplex"
         },
         {
-            "title": "Twitter",
+            "title": "X",
             "useIconFromIconset": true,
             "icon": "fa-brands fa-x-twitter",
-            "url": "https://twitter.com/nukdokplex"
+            "url": "https://x.com/nukdokplex"
         },
         {
             "title": "Discord",
@@ -48,6 +66,42 @@
             "useIconFromIconset": true,
             "icon": "fa-brands fa-youtube",
             "url": "https://www.youtube.com/channel/UC-8bYe6-ruy0rbzmmxA_TtA"
+        },
+        {
+            "title": "Twitch",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-twitch",
+            "url": "https://twitch.tv/nukdokplex"
+        },
+        {
+            "title": "Spotify",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-spotify",
+            "url": "https://open.spotify.com/user/k8d2u3l1klp64mdypz4b983mn?si=676e45bd72f34b60"
+        },
+        {
+            "title": "Steam",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-steam",
+            "url": "https://steamcommunity.com/profiles/76561198134009269"
+        },
+        {
+            "title": "Kinopoisk",
+            "useIconFromIconset": true,
+            "icon": "fa-solid fa-film",
+            "url": "https://kinopoisk.ru/user/39256326/"
+        },
+        {
+            "title": "RuTracker",
+            "useIconFromIconset": true,
+            "icon": "fa-solid fa-r",
+            "url": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=41020764"
+        },
+        {
+            "title": "Facebook",
+            "useIconFromIconset": true,
+            "icon": "fa-brands fa-facebook",
+            "url": "https://facebook.com/axelangeland"
         }
     ]
 }
