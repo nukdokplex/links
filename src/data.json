@@ -6,6 +6,9 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/25458915?v=4",
         "quote": "It's hard to say black is white because both are colors."
     },
+    "footerData": {
+        "copyrightText": "&copy;2023 NukDokPlex, built with <a href=\"https://github.com/nukdokplex/links\">nukdokplex/links</a>"
+    },
     "links": [
         {
             "title": "Website",
