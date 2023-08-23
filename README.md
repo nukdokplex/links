@@ -22,4 +22,4 @@ Just run `npm run build` and builded artifact will be available at `./build`.
 
 ## License
 
-This project is licensed under [The MIT License](README.md)
+This project is licensed under [The MIT License](LICENSE.md)
