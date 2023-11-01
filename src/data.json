@@ -14,13 +14,7 @@
             "title": "Website",
             "useIconFromIconset": true,
             "icon": "fa-solid fa-link",
-            "url": "https://nukdotcom.ru/"
-        },
-        {
-            "title": "Blog (longreads)",
-            "useIconFromIconset": true,
-            "icon": "fa-brands fa-tumblr",
-            "url": "https://blog.nukdotcom.ru/"
+            "url": "https://nukdokplex.ru/"
         },
         {
             "title": "GitHub",
