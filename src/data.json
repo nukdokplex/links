@@ -41,12 +41,6 @@
             "url": "https://instagram.com/nukdokplex"
         },
         {
-            "title": "VKontakte",
-            "useIconFromIconset": true,
-            "icon": "fa-brands fa-vk",
-            "url": "https://vk.com/nukdokplex"
-        },
-        {
             "title": "X",
             "useIconFromIconset": true,
             "icon": "fa-brands fa-x-twitter",
