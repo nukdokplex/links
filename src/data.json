@@ -23,16 +23,16 @@
             "url": "https://github.com/nukdokplex"
         },
         {
-            "title": "Telegram (me)",
+            "title": "Telegram",
             "useIconFromIconset": true,
             "icon": "fa-brands fa-telegram",
             "url": "https://t.me/nukdokplex"
         },
         {
-            "title": "Telegram (channel)",
+            "title": "Spotify",
             "useIconFromIconset": true,
-            "icon": "fa-brands fa-telegram",
-            "url": "https://t.me/axeliary"
+            "icon": "fa-brands fa-spotify",
+            "url": "https://open.spotify.com/user/k8d2u3l1klp64mdypz4b983mn?si=676e45bd72f34b60"
         },
         {
             "title": "Instagram",
@@ -65,12 +65,6 @@
             "url": "https://twitch.tv/nukdokplex"
         },
         {
-            "title": "Spotify",
-            "useIconFromIconset": true,
-            "icon": "fa-brands fa-spotify",
-            "url": "https://open.spotify.com/user/k8d2u3l1klp64mdypz4b983mn?si=676e45bd72f34b60"
-        },
-        {
             "title": "Steam",
             "useIconFromIconset": true,
             "icon": "fa-brands fa-steam",
@@ -89,7 +83,7 @@
             "url": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=41020764"
         },
         {
-            "title": "Facebook",
+            "title": "Facebook (not used)",
             "useIconFromIconset": true,
             "icon": "fa-brands fa-facebook",
             "url": "https://facebook.com/axelangeland"
